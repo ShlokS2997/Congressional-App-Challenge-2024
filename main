@@ -18,7 +18,7 @@ onEvent("next_use_button", "click", function( ) {
 });
 onEvent("next_improvement_button", "click", function( ) {
   setScreen("resultScreen");
-  results(getText("level_dropdown"), getText("improvement_dropdown"), getText("weight_dropdown"));
+  results(getText("level_dropdown"), getText("improvement_dropdown"), getText("use_dropdown"));
 });
 onEvent("home_button_1", "click", function( ) {
   setScreen("Home_Screen");
