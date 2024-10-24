@@ -5,7 +5,7 @@
 ## District: Hawaii - 01
 
 
-## PLEASE NOTE: We initially coded this application on code.org. We then copied the code from code.org and pasted it onto this repository on GitHub.
+## PLEASE NOTE: We initially coded this application on code.org. We then transfered the code from code.org onto this repository on GitHub.
 
 
 Our app, SurfsUp, is designed to help surfers of all skill levels discover and decide the best surfboard based on their unique needs. SurfsUp takes into account many important factors that make each surfboard perfect for its user. The app asks each user three questions - their skill level (beginner, intermediate, advanced), wave type (low waves, medium waves, high waves), and what improvement they would like to add to their surfing game (speed, maneuverability, stability). The user navigates from one criteria question to the next using the programmed next buttons. All these responses are stored within the app program. Then, it searches through a database that our team made for each specific test case/use to find the perfect match, utilizing a for loop and functions with parameters for each criteria. Once the app finds a match, it displays to the user the surfboard name and image. However, in case you would like to go back and change your responses, there is also a home button located on every page of the app for the user to restart the process and continue finding their dream surfboard easily.
